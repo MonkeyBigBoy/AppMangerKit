@@ -1,4 +1,4 @@
-framework module Pods_AppMangerKit_Tests {
+module Pods_AppMangerKit_Tests {
   umbrella header "Pods-AppMangerKit_Tests-umbrella.h"
 
   export *

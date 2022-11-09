@@ -1,4 +1,4 @@
-use_frameworks!
+#use_frameworks!
 
 platform :ios, '10.0'
 
@@ -8,6 +8,6 @@ target 'AppMangerKit_Example' do
   target 'AppMangerKit_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+    pod 'JGProgressHUD'
   end
 end

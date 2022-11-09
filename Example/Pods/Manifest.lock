@@ -1,18 +1,14 @@
 PODS:
   - AppMangerKit (0.1.0)
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
+  - JGProgressHUD (2.2)
 
 DEPENDENCIES:
   - AppMangerKit (from `../`)
-  - FBSnapshotTestCase
+  - JGProgressHUD
 
 SPEC REPOS:
   trunk:
-    - FBSnapshotTestCase
+    - JGProgressHUD
 
 EXTERNAL SOURCES:
   AppMangerKit:
@@ -20,8 +16,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AppMangerKit: 25bac14cd1ba9867d68cc760f852eed931b7ca02
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
 
-PODFILE CHECKSUM: a8448d761c24fcd1f9af34313bd910157c410e97
+PODFILE CHECKSUM: 1408981cb8203f034199b8f4027059e6cf5c9e63
 
 COCOAPODS: 1.11.3
