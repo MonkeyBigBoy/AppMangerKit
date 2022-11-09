@@ -27,3 +27,4 @@ moneky, monkey@123.com
 ## License
 
 AppMangerKit is available under the MIT license. See the LICENSE file for more info.
+# Blog
