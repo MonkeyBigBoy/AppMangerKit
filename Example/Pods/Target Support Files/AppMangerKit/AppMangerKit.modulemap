@@ -1,0 +1,6 @@
+framework module AppMangerKit {
+  umbrella header "AppMangerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

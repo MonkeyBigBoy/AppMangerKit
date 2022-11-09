@@ -1,0 +1,6 @@
+framework module Pods_AppMangerKit_Tests {
+  umbrella header "Pods-AppMangerKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

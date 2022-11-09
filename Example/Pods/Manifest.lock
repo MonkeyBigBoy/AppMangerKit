@@ -1,0 +1,27 @@
+PODS:
+  - AppMangerKit (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AppMangerKit (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AppMangerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppMangerKit: 25bac14cd1ba9867d68cc760f852eed931b7ca02
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: a8448d761c24fcd1f9af34313bd910157c410e97
+
+COCOAPODS: 1.11.3

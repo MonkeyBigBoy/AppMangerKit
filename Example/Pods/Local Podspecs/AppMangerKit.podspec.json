@@ -1,0 +1,22 @@
+{
+  "name": "AppMangerKit",
+  "version": "0.1.0",
+  "summary": "A short description of AppMangerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/moneky/AppMangerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "moneky": "monkey@123.com"
+  },
+  "source": {
+    "git": "https://github.com/moneky/AppMangerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AppMangerKit/Classes/**/*"
+}

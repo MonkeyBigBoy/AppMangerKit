@@ -1,0 +1,6 @@
+framework module Pods_AppMangerKit_Example {
+  umbrella header "Pods-AppMangerKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
