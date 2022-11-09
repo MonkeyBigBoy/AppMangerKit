@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AppMangerKit'
-  s.version          = '0.1.0'
+  s.version          = '1.0.2'
   s.summary          = '一个有趣的 AppMangerKit库.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MonkeyBigBoy' => 'zjinzhimail@163.com' }
-  s.source           = { :git => 'https://github.com/MonkeyBigBoy/AppMangerKit.git', :tag => s.version.to_s }
+  s.source           = { :http => 'https://github.com/MonkeyBigBoy/AppMangerKit.git',:tag =>'v1.0.2'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
