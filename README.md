@@ -22,7 +22,7 @@ pod 'AppMangerKit'
 
 ## Author
 
-MonkeyBigBoy, zjinzhimail@163.com
+monkey, monkey@163.com
 
 ## License
 
